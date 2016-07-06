@@ -1,0 +1,22 @@
+
+/* Customizaçoes específicas do sade */
+
+.ui-accordion .ui-accordion-content {
+    padding: 0em 0em;
+}
+
+.ui-widget {
+	font-size: 0.8em;
+}
+
+.ui-panelgrid .ui-panelgrid-cell {
+	border-style: none;
+}
+
+.ui-panelgrid .ui-panelgrid-cell {
+	padding: 0px 0px;
+}
+
+.ui-panelgrid {
+border-collapse: inherit;
+}
